@@ -1,0 +1,20 @@
+{
+  "name": "Default Profile",
+  "gestures": {
+    "fist": {"action": "key_combo", "keys": ["win", "d"]},
+    "one": {"action": "key_combo", "keys": ["ctrl", "c"]},
+    "two": {"action": "key_combo", "keys": ["ctrl", "v"]},
+    "three": {"action": "key_combo", "keys": ["alt", "tab"]},
+    "four": {"action": "key_combo", "keys": ["ctrl", "shift", "esc"]},
+    "five": {"action": "key_combo", "keys": ["win", "e"]},
+    "six": {"action": "key_combo", "keys": ["ctrl", "t"]},
+    "seven": {"action": "key_combo", "keys": ["ctrl", "w"]},
+    "eight": {"action": "key_combo", "keys": ["ctrl", "shift", "t"]},
+    "nine": {"action": "key_combo", "keys": ["ctrl", "tab"]},
+    "ten": {"action": "key_combo", "keys": ["win", "l"]},
+    "peace": {"action": "key_combo", "keys": ["ctrl", "alt", "m"]},
+    "ok": {"action": "key_combo", "keys": ["ctrl", "alt", "p"]},
+    "thumbs_up": {"action": "key_combo", "keys": ["ctrl", "alt", "up"]},
+    "point": {"action": "key_combo", "keys": ["ctrl", "alt", "down"]}
+  }
+}
