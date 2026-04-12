@@ -1,4 +1,4 @@
-# 🖐️ GestureDeck
+# GestureDeck
 
 **Control your computer with hand gestures** - A programmable macro launcher powered by computer vision.
 
